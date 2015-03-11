@@ -1,0 +1,3 @@
+[submodule "hello_world"]
+    path = hello_world
+    url = https://github.com/ycshu/hello_world
